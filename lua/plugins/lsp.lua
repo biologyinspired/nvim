@@ -29,7 +29,7 @@ return {
             ensure_installed = {
                 "lua_ls",
                 "pyright",
-                "r_language_server",
+                -- "r_language_server", seems broken for now... not sure why
                 -- "groovyls",
                 -- "html",
                 -- "cssls",

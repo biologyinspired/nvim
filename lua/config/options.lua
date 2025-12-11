@@ -1,6 +1,9 @@
 -- Numbered Lines
 vim.opt.number = true
 
+-- Relative Lines
+vim.opt.relativenumber = true
+
 -- Highlight Current Line
 vim.opt.cursorline = true
 
